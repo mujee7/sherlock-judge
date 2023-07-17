@@ -1,0 +1,25 @@
+010 needs to check the remix code
+
+018 need to check this precisely and R&D
+020 check again necessary
+023 also needs to check
+031 needs some mind
+041 check again
+045 / 046 need to check
+076 prob wrong
+138 check again
+141 need to check
+154 prob invalid
+158 is important to check
+//that constructor thing need some r&d
+
+
+
+best:
+061 is the best high prob
+
+it says using safemint will be considered illegal
+
+
+Learnings:
+sybil attack (reentrant and new Contract Addresses) 
